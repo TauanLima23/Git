@@ -1,2 +1,2 @@
-# Curso de Git
- Repositorio de versionamento
+# Git
+ Repositorio criado para teste de versionamento de projeto.
